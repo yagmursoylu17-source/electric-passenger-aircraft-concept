@@ -4,9 +4,9 @@ This repository contains our university team project report titled **“Tam Elek
 
 ## Team
 - **Mehmet Vergili**  
-- **FARUK NOM**  
-- **ZZEHR YAĞMUR SOYLU**  
-- **FATMA ZEHRA ÖZTÜRK**  
+- **Faruk Nom**  
+- **Zehra Yağmur Soylu**  
+- **Fatma Zehra Öztük**  
 
 > The full author list also appears on the report cover page.
 
